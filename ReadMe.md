@@ -13,6 +13,4 @@
 * Analyze the code in the [Temperature.ino](Temperature.ino) arduino file. In the file, change your Network SSID to match a desired unique name.
 * Connect your device to your computer through a mini usb device provided to you.
 * Upload the Temperature.ino sketch to the device.
-* Now on either the same computer or a different device i.e. mobile phone, connect to your network with a chosen SSID in 6 above.
-* In any chosen web browser, navigate to IP address 192.168.1.1 and see the default display of the html code you analyzed in 5 above. 
-Contemplate on how you can improve the display using any thought of means.
+* Open the serial monitor and check out which IP address that shows up. That is the IP address that will be used to access your device bia a web browser
