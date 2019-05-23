@@ -6,8 +6,8 @@
 * Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine
 * Configure the Arduino IDE to work with the ESP8266. Follow the instructions in [this](https://github.com/esp8266/Arduino)  link
 * Download and unzip the [OneWire](OneWire.zip) library into the Arduino libraries folder on your machine
-* Download and unzip the DallasTemperature library into the Arduino libraries folder on your machine
-* Analyze the code in the Temperature.ino arduino file. Change your SSID to match a desired unique name
+* Download and unzip the [DallasTemperature](DallasTemperature.zip) library into the Arduino libraries folder on your machine
+* Analyze the code in the [Temperature.ino](Temperature.ino) arduino file. Change your SSID to match a desired unique name
 * Analyze the contents of the html code in the data folder.
 * Connect your device to your computer through a mini usb device provided to you.
 * Upload the Temperature.ino sketch to the device.
