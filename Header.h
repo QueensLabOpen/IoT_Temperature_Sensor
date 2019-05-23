@@ -10,6 +10,7 @@
 #include <ESP8266mDNS.h>    
 #include <OneWire.h>
 #include <DallasTemperature.h>
+#include <Ticker.h>
 
 // Reference to the inbuilt LED. Remember that its active Low.
 #define LED D4  
