@@ -4,7 +4,7 @@
 ## Instructions for respective groups to follow
 
 ## Programmers [15-20 minutes setup]
-**NB: _Call for help if your group realizes that its taking more time than estimated to do the initial setup_**
+**NB: _Call for help if your group realizes that its taking or going to take more time than estimated to setup_**
 
 * Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine. Alternatively an online [IDE](https://create.arduino.cc/) can be used for this task.
 * Configure the Arduino IDE to work with the ESP8266. Follow the instructions in [this](https://github.com/esp8266/Arduino)  link
