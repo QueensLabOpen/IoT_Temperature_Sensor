@@ -1,5 +1,5 @@
 
-# QUEENSLAB OPENLAB (IoT Temperature Sensor, Episode 1 : 2019-05-23)
+# QUEENSLAB OPENLAB (IoT Temperature Sensor, Episode 1)
 
 ## Instructions for respective groups to follow
 
