@@ -3,7 +3,7 @@
 
 ## Instructions for programmers
 
-* Install the Arduino IDE on your machine
+* Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine
 * Configure it to accept ESP8266
 * Download and unzip the OneWire library into the Arduino libraries folder on your machine
 * Download and unzip the DallasTemperature library into the Arduino libraries folder on your machine
