@@ -18,7 +18,7 @@
 * In any chosen web browser, navigate to IP address 192.168.1.1 and see the default display of the html code you analyzed in 5 above. 
 Contemplate on how you can improve the display using any thought of means.
 
-## Designers
+## Designers [Rest of the lab]
 
 * Think of the interface to display the sensor data and how it could be appealing to the end user.
 * Think of how the device could be best packaged to create a near-to-purchase/off-shelf product
