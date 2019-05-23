@@ -1,9 +1,9 @@
 
 # OPENLAB (IoT Temperature Sensor, Episode 1)
 
-## Instructions for respective groups to follow
+## Instructions inintial setup of the prototype
 
-## Programmers [15-20 minutes setup]
+## [Estimated setup time : 15-20 minutes]
 **NB: _Call for help if your group realizes that its taking or going to take more time than estimated to setup_**
 
 * Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine. Alternatively an online [IDE](https://create.arduino.cc/) can be used for this task.
@@ -17,8 +17,3 @@
 * Now on either the same computer or a different device i.e. mobile phone, connect to your network with a chosen SSID in 6 above.
 * In any chosen web browser, navigate to IP address 192.168.1.1 and see the default display of the html code you analyzed in 5 above. 
 Contemplate on how you can improve the display using any thought of means.
-
-## Designers [Rest of the lab]
-
-* Think of the interface to display the sensor data and how it could be appealing to the end user.
-* Think of how the device could be best packaged to create a near-to-purchase/off-shelf product.
