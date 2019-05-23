@@ -1,9 +1,12 @@
 
 # QUEENSLAB OPENLAB (IoT Temperature Sensor, Episode 1 : 2019-05-23)
 
-## Instructions for programmers
+## Instructions for respective groups to follow
 
-* Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine
+###### Programmers [15-20 minutes setup]
+<style="color:red">*NB: _Call for help is your group realises that its taking more time than estimated_*</style>
+
+* Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine. Alternatively an online [IDE](https://create.arduino.cc/) can be used for this task.
 * Configure the Arduino IDE to work with the ESP8266. Follow the instructions in [this](https://github.com/esp8266/Arduino)  link
 * Download and unzip the [OneWire](OneWire.zip) library into the Arduino libraries folder on your machine
 * Download and unzip the [DallasTemperature](DallasTemperature.zip) library into the Arduino libraries folder on your machine
@@ -15,7 +18,7 @@
 * In any chosen web browser, navigate to IP address 192.168.1.1 and see the default display of the html code you analyzed in 5 above. 
 Contemplate on how you can improve the display using any thought of means.
 
-## Instructions for designers
+###### Designers
 
 * Think of the interface to display the sensor data and how it could be appealing to the end user.
 * Think of how the device could be best packaged to create a near-to-purchase/off-shelf product
