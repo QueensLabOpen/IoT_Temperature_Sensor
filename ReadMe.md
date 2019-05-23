@@ -1,7 +1,7 @@
 
 # OPENLAB (IoT Temperature Sensor, Episode 1)
 
-## Instructions inintial setup of the prototype
+## Instructions initial setup of the prototype
 
 ## [Estimated setup time : 15-20 minutes]
 **NB: _Call for help if your group realizes that its taking or going to take more time than estimated to setup_**
