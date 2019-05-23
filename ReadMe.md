@@ -5,6 +5,7 @@
 
 ###### Programmers [15-20 minutes setup]
 <style="color:red">*NB: _Call for help is your group realises that its taking more time than estimated_*</style>
+color.Red("We have red")
 
 * Install the [Arduino IDE](https://www.arduino.cc/en/Main/Software) on your machine. Alternatively an online [IDE](https://create.arduino.cc/) can be used for this task.
 * Configure the Arduino IDE to work with the ESP8266. Follow the instructions in [this](https://github.com/esp8266/Arduino)  link
