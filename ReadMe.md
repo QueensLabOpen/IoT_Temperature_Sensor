@@ -8,7 +8,7 @@
 * Download and unzip the [OneWire](OneWire.zip) library into the Arduino libraries folder on your machine
 * Download and unzip the [DallasTemperature](DallasTemperature.zip) library into the Arduino libraries folder on your machine
 * Analyze the code in the [Temperature.ino](Temperature.ino) arduino file. Change your SSID to match a desired unique name
-* Analyze the contents of the html code in the data folder.
+* Analyze the contents of the html code in the data folder. Ensure that the data folder, Header.h and Temperature.ino all lie in the same folder.
 * Connect your device to your computer through a mini usb device provided to you.
 * Upload the Temperature.ino sketch to the device.
 * Now on either the same computer or a different device i.e. mobile phone, connect to your network with a chosen SSID in 6 above.
